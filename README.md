@@ -26,4 +26,4 @@
 
 
 
-### ***打包出现方法数过多的错误，方法数大于65536.[解决方法](http://www.jianshu.com/p/5dd2a7a4e6aa)***
+### ***打包出现方法数过多的错误，方法数大于65536.解决方法[Android Studio](http://www.jianshu.com/p/5dd2a7a4e6aa)和[eclipse](https://github.com/mmin18/Dex65536)***
